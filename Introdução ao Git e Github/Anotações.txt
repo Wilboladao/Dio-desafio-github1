@@ -1,0 +1,2 @@
+ Link para Download do Git: https://git-scm.com/download/win
+O Git bash é um terminal extendido para otimizar o uso do Git.
